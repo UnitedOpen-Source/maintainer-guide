@@ -29,15 +29,17 @@ The guide is written in English first, with Brazilian Portuguese and Spanish tra
 
 ## Planned scope for v0.1.0
 
-- MDX site generator decision (ADR), scaffold, CI and deploy
-- A shared pattern page template
-- Pattern: decision-making models (BDFL, maintainers council, lazy consensus)
-- Pattern: Architecture Decision Records, with a template
-- Pattern: contributor ladder
-- Pattern: `SECURITY.md` and coordinated vulnerability disclosure
-- Pattern: succession and bus factor
-- Pattern: archiving a project responsibly
-- Translation plan for pt-BR and es
+Tracked in the [v0.1.0 milestone](https://github.com/UnitedOpen-Source/maintainer-guide/milestone/1).
+
+- MDX site generator decision (ADR), scaffold, CI and deploy ([#1](https://github.com/UnitedOpen-Source/maintainer-guide/issues/1))
+- A shared pattern page template ([#2](https://github.com/UnitedOpen-Source/maintainer-guide/issues/2))
+- Pattern: decision-making models (BDFL, maintainers council, lazy consensus) ([#3](https://github.com/UnitedOpen-Source/maintainer-guide/issues/3))
+- Pattern: Architecture Decision Records, with a template ([#4](https://github.com/UnitedOpen-Source/maintainer-guide/issues/4))
+- Pattern: contributor ladder ([#5](https://github.com/UnitedOpen-Source/maintainer-guide/issues/5))
+- Pattern: `SECURITY.md` and coordinated vulnerability disclosure ([#6](https://github.com/UnitedOpen-Source/maintainer-guide/issues/6))
+- Pattern: succession and bus factor ([#7](https://github.com/UnitedOpen-Source/maintainer-guide/issues/7))
+- Pattern: archiving a project responsibly ([#8](https://github.com/UnitedOpen-Source/maintainer-guide/issues/8))
+- Translation plan for pt-BR and es ([#9](https://github.com/UnitedOpen-Source/maintainer-guide/issues/9))
 
 Topics planned for later versions include issue triage, release policy, and funding and sustainability.
 
